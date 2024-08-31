@@ -1,7 +1,7 @@
+export const metadata = {
+  title: "VettiApp - Home",
+};
+
 export default function Home() {
-  return (
-    <main className="flex min-h-screen flex-col justify-between p-24">
-      <h1>VettiApp</h1>
-    </main>
-  );
+  return <h1>VettiApp</h1>;
 }

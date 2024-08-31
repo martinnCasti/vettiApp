@@ -3,5 +3,5 @@ export const metadata = {
 };
 
 export default function Home() {
-  return <h1>VettiApp</h1>;
+  return <h1>VettiApp - HOME</h1>;
 }
